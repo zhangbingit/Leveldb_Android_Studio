@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Leveldb_Android_Studio</string>
+    <string name="action_settings">Settings</string>
+</resources>
